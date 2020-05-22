@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Jonathan's Website
 
-You can use the [editor on GitHub](https://github.com/JonathanWu1120/jonathanwu1120.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here is my [resume](https://github.com/JonathanWu1120/jonathanwu1120.github.io/blob/master/Jonathan_Wu_Resume.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is a work in progress, most of the things here are filler.
 
 ### Markdown
 
